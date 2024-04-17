@@ -2,13 +2,13 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="h-[800px] bg-white bg-no-repeat bg-cover bg-center py-24 mt-20 md:mt-0 border-b">
+    <section className="h-[800px] bg-white bg-no-repeat bg-cover bg-center py-24 mt-10 md:mt-0">
       <div className="container mx-auto flex flex-col md:flex-row justify-around h-full">
         <div className="flex flex-col justify-center">
           <div className="font-semibold flex items-center uppercase">
             <div className="w-10 h-[2px] bg-red-500 mr-3"></div>New Trend
           </div>
-          <h1 className="text-[70px] leading-[1.1] font-light mb-4">
+          <h1 className="text-[25px] sm:text-[70px] leading-[1.1] font-light mb-4">
             NICOLINAS WINE SHOP <br />
             <span className="font-semibold">WINE SELECTION</span>
           </h1>
