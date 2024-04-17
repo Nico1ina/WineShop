@@ -2,8 +2,8 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="h-[800px] bg-white bg-no-repeat bg-cover bg-center py-24">
-      <div className="container mx-auto flex justify-around h-full">
+    <section className="h-[800px] bg-white bg-no-repeat bg-cover bg-center py-24 mt-20 md:mt-0 border-b">
+      <div className="container mx-auto flex flex-col md:flex-row justify-around h-full">
         <div className="flex flex-col justify-center">
           <div className="font-semibold flex items-center uppercase">
             <div className="w-10 h-[2px] bg-red-500 mr-3"></div>New Trend
@@ -19,9 +19,9 @@ const Hero = () => {
             Discover More
           </a>
         </div>
-        <div className="block">
+        <div className="block md:order-last">
           <img
-            className="h-[700px]"
+            className="sm:h-[700px] h-auto"
             src="https://assets-global.website-files.com/64c168e575d2b07666e2c93f/64cad22dc9bab4d84b8f3938_Wine%20Club%20Illustration.svg"
             alt=""
           />
