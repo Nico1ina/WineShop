@@ -23,6 +23,14 @@ const Home = () => {
           </div>
         </div>
       </section>
+      <div className="flex flex-col justify-center items-center">
+        <img
+          className="sm:h-[150px] h-auto"
+          src="https://friaviner.se/cdn/shop/files/Duva_med_druvor_version_1_1_900x.gif?v=1656928842"
+          alt=""
+        />
+        <p className="mb-10 text-sm">Drink Responsibly!</p>
+      </div>
     </div>
   );
 };
