@@ -17,7 +17,7 @@ const CartItem = ({ item }) => {
         <div className="w-full flex flex-col">
           <div className="flex justify-between mb-2">
             <Link
-              to={`/products/${id}`}
+              to={`/product/${id}`}
               className="text-sm uppercase font-medium max-w-[240px] text-primary hover:underline"
             >
               {title}
@@ -37,7 +37,7 @@ const CartItem = ({ item }) => {
               >
                 <IoMdRemove />
               </div>
-              <div className="h-full flex justify-center items-center px-2">
+              <div className="h-full flex justify-center items-center px-2 font-thin">
                 {amount}
               </div>
               <div

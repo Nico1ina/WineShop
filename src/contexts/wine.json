@@ -2,82 +2,92 @@
   "wine": [
     {
       "id": 1,
-      "title": "Wine",
-      "category": "white wine",
-      "image": "https://www.wineonline.ca/media/catalog/product/cache/1/small_image/370x370/9df78eab33525d08d6e5fb8d27136e95/s/c/screw75-fontamara-pinot-web.jpg",
-      "price": 10,
-      "description": "Hella good wine"
+      "title": "Babar is the color 2022",
+      "category": "red wine",
+      "image": "/img/babar_22_720x.jpg.webp",
+      "price": 249,
+      "druvor": "Syrah, Merlot & Viognier",
+      "description": "Ett josigt och lätt rött vin. Ett vin av Lori Haon. OBS! 1 liter."
     },
     {
       "id": 2,
-      "title": "Wine",
+      "title": "Encore 2022",
       "category": "red wine",
-      "image": "https://www.wineonline.ca/media/catalog/product/cache/1/small_image/370x370/9df78eab33525d08d6e5fb8d27136e95/s/c/screw75-fontamara-pinot-web.jpg",
-      "price": 5,
-      "description": "Hella good wine"
+      "image": "/img/output_medium_validoo_1500_0ab5e1cb-8ce7-45c7-9b54-60591c07f1f6_360x.png.webp",
+      "price": 199,
+      "druvor": "2/3 Syrah & 1/3 Grenache",
+      "description": "Ett lätt och josigt rött vin. Friskt, piggt, klunkvänligt! Ett vin av Patricia & Remi Bonneton."
     },
     {
       "id": 3,
-      "title": "Wine",
+      "title": "Enfant Sauvage 2018/2019",
       "category": "red wine",
-      "image": "https://www.wineonline.ca/media/catalog/product/cache/1/small_image/370x370/9df78eab33525d08d6e5fb8d27136e95/s/c/screw75-fontamara-pinot-web.jpg",
-      "price": 17,
-      "description": "Hella good wine"
+      "image": "/img/enfantsauvage_28716c86-a003-4b21-8921-54580f8e516e_360x.jpg.webp",
+      "price": 299,
+      "druvor": "60% Carignan, 30% Grenache Noir & 10% Mourvèdre",
+      "description": "Ett friskt rött vin. Mjuka tanniner och lite reduktiv doft. Ett vin av Carolin & Nikolaus Bantlin."
     },
     {
       "id": 4,
-      "title": "Wine",
-      "category": "red wine",
-      "image": "https://www.wineonline.ca/media/catalog/product/cache/1/small_image/370x370/9df78eab33525d08d6e5fb8d27136e95/s/c/screw75-fontamara-pinot-web.jpg",
-      "price": 17,
-      "description": "Hella good wine"
+      "title": "Ezo Awa Pétillant 2020",
+      "category": "white wine",
+      "image": "/img/ezoawa_493d66ea-bb22-4481-b013-28aa208df052_360x.jpg.webp",
+      "price": 199,
+      "description": "Ett aromatiskt vitt bubbel från Domaine Ichi. "
     },
     {
       "id": 5,
-      "title": "Wine",
+      "title": "Facettes 2022",
       "category": "red wine",
-      "image": "https://www.wineonline.ca/media/catalog/product/cache/1/small_image/370x370/9df78eab33525d08d6e5fb8d27136e95/s/c/screw75-fontamara-pinot-web.jpg",
-      "price": 17
+      "image": "/img/2_1254_2024_02_08_16_03_19_1296x.png.webp",
+      "price": 199,
+      "druvor": "1/3 Carignan, 1/3 Grenache Noir & 1/3 Syrah",
+      "description": "Ett väldigt rött bubbel. Röda frukter av alla de slag. Bärfest! Ett vin av Laura Lees & Arthur Joly."
     },
     {
       "id": 6,
-      "title": "Wine",
-      "category": "red wine",
-      "image": "https://www.wineonline.ca/media/catalog/product/cache/1/small_image/370x370/9df78eab33525d08d6e5fb8d27136e95/s/c/screw75-fontamara-pinot-web.jpg",
-      "price": 17,
-      "description": "Hella good wine"
+      "title": "Fontenelles 2018",
+      "category": "white wine",
+      "image": "/img/Fontenelles_ee9ec021-1111-41ba-beb9-4e4857146d6f_360x.jpg.webp",
+      "price": 249,
+      "druvor": "Chenin",
+      "description": "Ett friskt vitt vin. Mineraligt och aningen salt. Ett vin av Pauline Mourrain & Laurent Troubat. "
     },
     {
       "id": 7,
-      "title": "Wine",
-      "category": "red wine",
-      "image": "https://www.wineonline.ca/media/catalog/product/cache/1/small_image/370x370/9df78eab33525d08d6e5fb8d27136e95/s/c/screw75-fontamara-pinot-web.jpg",
-      "price": 17,
-      "description": "Hella good wine"
+      "title": "In Utero 2019",
+      "category": "white wine",
+      "image": "/img/inutero19_ny_360x.jpg.webp",
+      "price": 249,
+      "druvor": "Marsanne & Rousanne",
+      "description": "Ett oxiderat vitt vin. Svala sherrytoner. Ett vin av Sybil Baldasserre. "
     },
     {
       "id": 8,
-      "title": "Wine",
+      "title": "Koalitre 2021",
       "category": "red wine",
-      "image": "https://www.wineonline.ca/media/catalog/product/cache/1/small_image/370x370/9df78eab33525d08d6e5fb8d27136e95/s/c/screw75-fontamara-pinot-web.jpg",
-      "price": 17,
-      "description": "Hella good wine"
+      "image": "/img/koalitre_566dd2ea-d438-4543-86c7-c154d046c086_540x.jpg.webp",
+      "price": 249,
+      "druvor": "Grenache & Cinsault",
+      "description": "Ett josigt, lite kryddigt rött vin. Ett vin av Lori Haon. "
     },
     {
       "id": 9,
-      "title": "Wine",
-      "category": "red wine",
-      "image": "https://www.wineonline.ca/media/catalog/product/cache/1/small_image/370x370/9df78eab33525d08d6e5fb8d27136e95/s/c/screw75-fontamara-pinot-web.jpg",
+      "title": "Kharaktêr 2018",
+      "category": "white wine",
+      "image": "/img/kharakter_32486a7c-cefe-4642-9983-b69bcee5cbf5_360x.jpg.webp",
       "price": 17,
-      "description": "Hella good wine"
+      "druvor": "Chenin blanc",
+      "description": "Ett fylligt vitt vin. Med närvarande, lite komplex eftersmak.Ett vin av Nathalie Gaubicher Hérédia."
     },
     {
       "id": 10,
-      "title": "Wine",
+      "title": "Les Courage des Oiseaux 2019",
       "category": "red wine",
-      "image": "https://www.wineonline.ca/media/catalog/product/cache/1/small_image/370x370/9df78eab33525d08d6e5fb8d27136e95/s/c/screw75-fontamara-pinot-web.jpg",
-      "price": 17,
-      "description": "Hella good wine"
+      "image": "/img/courage_84b5984a-280c-4d95-821a-edbce387d380_360x.jpg.webp",
+      "price": 299,
+      "druvor": "Carignan, Grenache & Syrah",
+      "description": "Ett komplext och runt rött vin. Mjukt. Ett vin av Laura Lees & Arthur Joly."
     }
   ]
 }
