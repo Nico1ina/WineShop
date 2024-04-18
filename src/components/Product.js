@@ -7,7 +7,7 @@ const Product = ({ product }) => {
   const { addToCart } = useContext(CartContext);
   const { id, image, description, category, title, price } = product;
   return (
-    <div id="wines">
+    <div>
       <div className="h-[300px] mb-4 relative overflow-hidden group transition">
         <div className="w-full h-full flex justify-center items-center">
           <div className="w-[200px] mx-auto flex justify-center items-center">
