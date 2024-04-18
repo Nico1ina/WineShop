@@ -1,4 +1,5 @@
 import React, { createContext, useState, useEffect } from "react";
+import wineData from "./wine.json";
 
 export const ProductContext = createContext();
 
@@ -6,13 +7,8 @@ const ProductProvider = ({ children }) => {
   const [products, setProducts] = useState([]);
 
   useEffect(() => {
-    const fetchProducts = async () => {
-      // Fetching data from your local JSON Server
-      const response = await fetch("http://localhost:4000/wine");
-      const data = await response.json();
-      setProducts(data);
-    };
-    fetchProducts();
+    // Use the imported JSON data directly
+    setProducts(wineData.wine);
   }, []);
 
   return (

@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="container mx-auto flex flex-col md:flex-row justify-around h-full">
         <div className="flex flex-col justify-center">
           <div className="font-semibold flex items-center uppercase">
-            <div className="w-10 h-[2px] bg-red-500 mr-3"></div>New Trend
+            <div className="w-10 h-[2px] bg-red-500 mr-3"></div>Natural Wines
           </div>
           <h1 className="text-[25px] sm:text-[70px] leading-[1.1] font-light mb-4">
             NICOLINAS WINE SHOP <br />

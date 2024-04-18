@@ -25,7 +25,7 @@ const Header = () => {
         <Link to={"/"}>
           <div>
             <img
-              className="w-[50px]"
+              className="w-[30px]"
               src="https://www.svgrepo.com/show/3493/wine-glass.svg"
               alt=""
             />
